@@ -82,4 +82,5 @@ Then, follow the instructions in the [README](https://github.com/marqo-ai/marqo-
 #### Testing Marqo python client
 The Python Marqo client has its own test suite. Clone [the repo](https://github.com/marqo-ai/py-marqo), `cd` into the client home directory and then run `tox`.
 
+by Vatler Lett
 
